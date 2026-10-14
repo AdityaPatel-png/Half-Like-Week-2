@@ -24,6 +24,8 @@
 
 Today, I made the king, which is the only piece I don't plan to make transform. I did it by combining designs from images i found on google, which was a lot harder than I thought. Since I didn't use any measurements for reference, I just eyeballed the sizes and am hoping it won't be too big or small when I make it in week 7. It took me a while to get the proportions right but I think it looks pretty good. I also started the chessboard and made a shape for the tiles to click into. I plan to use magnets and metal discs to have the pieces stick to the board for a nice tactile effect. After I finish the board, my next goal is to figure out the transforming pawns, starting with the queen.
 
+TLDR: I made a king from chess and 60% of the board
+
 ![Screenshot 2026-10-13 at 9.17.26 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/2b700bb5fffda59e772ed270083812afe80a9dae34ebd5f58453ea34b4bc4c42.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/c6c3746f-5d14-444a-b798-2c3fcb4dd7de/video.mp4)

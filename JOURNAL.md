@@ -14,19 +14,32 @@
 
 ## Contents
 
-1. [2026-10-14 – Today, I made the king, which is the only piece I don't plan to make transform. I did it by combining designs from images i found on google, which was a lot harder than I thought. Since I didn't use a](#2026-10-14-today-i-made-the-king-which-is-the-only-piece-i-d)
+1. [2026-10-14 – Today, I spent most of my free time looking at mechanisms I could use for my complex parts as well as designing some chess pieces. I made the king, which is the only piece I don't plan to make transfo](#2026-10-14-today-i-spent-most-of-my-free-time-looking-at-mec)
 
 ## Design
 
-### 2026-10-14 – Today, I made the king, which is the only piece I don't plan to make transform. I did it by combining designs from images i found on google, which was a lot harder than I thought. Since I didn't use a
+### 2026-10-14 – Today, I spent most of my free time looking at mechanisms I could use for my complex parts as well as designing some chess pieces. I made the king, which is the only piece I don't plan to make transfo
 
 **2.13h**
 
-Today, I made the king, which is the only piece I don't plan to make transform. I did it by combining designs from images i found on google, which was a lot harder than I thought. Since I didn't use any measurements for reference, I just eyeballed the sizes and am hoping it won't be too big or small when I make it in week 7. It took me a while to get the proportions right but I think it looks pretty good. I also started the chessboard and made a shape for the tiles to click into. I plan to use magnets and metal discs to have the pieces stick to the board for a nice tactile effect. After I finish the board, my next goal is to figure out the transforming pawns, starting with the queen.
+Today, I spent most of my free time looking at mechanisms I could use for my complex parts as well as designing some chess pieces. I made the king, which is the only piece I don't plan to make transform. I did it by combining designs from images i found on google, which was a lot harder than I thought. Since I didn't use any measurements for reference, I just eyeballed the sizes and am hoping it won't be too big or small when I build it later. It took me a while to get the proportions right but I think it looks pretty good. I also started the chessboard and made a shape for the tiles to click into. A little bit got cut out when I paused lapse and forgot to restart it, but it was basically just more trial and error of trying to make a shape that was good. Since its gonna be mostly 3d printed, i tried to make tolerances (I'm pretty sure thats how its described) and channels for air/glue to escape wherever I thought I would need to. However, since I don't own a 3D printer I was planning to send it to JLC3DP and I'm not sure what kind of tolerances they use, so it might take a few reprints to get it right (hopefully not since they have a resin printing option which I heard is pretty precise). I plan to use magnets and metal discs to have the pieces stick to the board for a nice tactile effect. After I finish the board, my next goal is to figure out the transforming pawns, starting with the queen.
 
 TLDR: I made a king from chess and 60% of the board
 
+King (bottom view included):
 ![Screenshot 2026-10-13 at 9.17.26 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/2b700bb5fffda59e772ed270083812afe80a9dae34ebd5f58453ea34b4bc4c42.png)
+
+![Screenshot 2026-10-13 at 9.41.14 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/d35980ba4f81b62520213391af3705c56c0030b8a9a1ce880bf94dde00a12be1.png)
+
+Board (The holes are for the squares to click in):
+
+![Screenshot 2026-10-13 at 9.34.23 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/296a153024118ce4795c79dfb6b43ff37b1b3f816b6fc0d2ec1ed3f43e6b9b81.png)
+
+Squares (Bottom view included):
+
+![Screenshot 2026-10-13 at 9.35.46 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/d214e37740ecd7ef52bacd203ab3258d99c50dc56f90d7e45d247241e46e4946.png)
+
+![Screenshot 2026-10-13 at 9.36.01 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/7059e8b4beb046c08d637f7ca683e072e695ced9c7b4b39da9f6b5de196f8c90.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/c6c3746f-5d14-444a-b798-2c3fcb4dd7de/video.mp4)
 

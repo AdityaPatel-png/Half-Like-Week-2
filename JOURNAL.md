@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 2.13h | 1 |
+| Week 2 | Tier 1 | 3.13h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-14 – Today, I spent most of my free time looking at mechanisms I could use for my complex parts as well as designing some chess pieces. I made the king, which is the only piece I don't plan to make transfo
 
-**2.13h**
+**3.13h**
 
 Today, I spent most of my free time looking at mechanisms I could use for my complex parts as well as designing some chess pieces. I made the king, which is the only piece I don't plan to make transform. I did it by combining designs from images i found on google, which was a lot harder than I thought. Since I didn't use any measurements for reference, I just eyeballed the sizes and am hoping it won't be too big or small when I build it later. It took me a while to get the proportions right but I think it looks pretty good. I also started the chessboard and made a shape for the tiles to click into. A little bit got cut out when I paused lapse and forgot to restart it, but it was basically just more trial and error of trying to make a shape that was good. Since its gonna be mostly 3d printed, i tried to make tolerances (I'm pretty sure thats how its described) and channels for air/glue to escape wherever I thought I would need to. However, since I don't own a 3D printer I was planning to send it to JLC3DP and I'm not sure what kind of tolerances they use, so it might take a few reprints to get it right (hopefully not since they have a resin printing option which I heard is pretty precise). I plan to use magnets and metal discs to have the pieces stick to the board for a nice tactile effect. After I finish the board, my next goal is to figure out the transforming pawns, starting with the queen.
 

@@ -4,18 +4,18 @@
 <!-- Generated: 2026-10-14T05:21:12.639Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv4q4nko0esj01n0zgvwlpvf). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > Chess set except the pawns can transform into other pieces when they promote
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 3.58h | 2 |
+| Week 2 | Tier 1 | 4.05h | 2 |
 
 ## Contents
 
 1. [2026-10-14 – Today, I spent most of my free time looking at mechanisms I could use for my complex parts as well as designing some chess pieces. I made the king, which is the only piece I don't plan to make transfo](#2026-10-14-today-i-spent-most-of-my-free-time-looking-at-mec)
-2. [2026-10-14 – Quick little work session, I added the tiles to the board and now all that's left of it is the engravings of coordinates and the hinges so it closes (maybe feet if I want to add them). I was going to](#2026-10-14-quick-little-work-session-i-added-the-tiles-to-th)
+2. [2026-10-14 – Quick work session, I added the tiles and engravings to the board and now all that's left of it is the hinges so it closes (maybe feet if I want to add them). I was going to tile them individually unt](#2026-10-14-quick-work-session-i-added-the-tiles-and-engravin)
 
 ## Design
 
@@ -46,12 +46,16 @@ Squares (Bottom view included):
 
 [Timelapse](https://lookout.hackclub.com/api/media/8a4103a0-092b-4edf-8d41-2a8989c1dcfb/video.mp4)
 
-### 2026-10-14 – Quick little work session, I added the tiles to the board and now all that's left of it is the engravings of coordinates and the hinges so it closes (maybe feet if I want to add them). I was going to
+### 2026-10-14 – Quick work session, I added the tiles and engravings to the board and now all that's left of it is the hinges so it closes (maybe feet if I want to add them). I was going to tile them individually unt
 
-**0.45h**
+**0.92h**
 
-Quick little work session, I added the tiles to the board and now all that's left of it is the engravings of coordinates and the hinges so it closes (maybe feet if I want to add them). I was going to tile them individually until I remembered rectangular patterns exist so I did that instead of breaking my finger with 64 copies of the tile.
+Quick work session, I added the tiles and engravings to the board and now all that's left of it is the hinges so it closes (maybe feet if I want to add them). I was going to tile them individually until I remembered rectangular patterns exist so I did that instead of breaking my finger with 64 copies of the tile.
 
 ![Screenshot 2026-10-13 at 10.21.00 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/2c79870569b599236a014132918737b7065983fc14c13b0b42d52cfee9d91eb3.png)
 
+![Screenshot 2026-10-15 at 2.40.48 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/4f5d7d42fe4e1f9fe60c4095e5016d289572b72989005f24687ad6afe3445e03.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/0afc8b6f-e3b6-4a97-8e4b-eb875e273c08/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/87879d5f-8538-4039-8649-5edb7a5bb16c/video.mp4)

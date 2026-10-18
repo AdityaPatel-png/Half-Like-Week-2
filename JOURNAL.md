@@ -74,7 +74,7 @@ Today was not a ton of work, I was trying to figure out the mechanism for the ex
 
 **3.18h**
 
-I made a lot more of the mechanism for the queen, adding a cam that will push out the base to become larger, and making the pieces fit better and accounting for tolerances. I also added the trigger part of the mechanism in the base. My next goal is to finish the shell of the queen, then I can move on to the bishop and rook. About 30 minutes of the footage got lost because fusion crashed and the recording was set to a window, so I didn't realize it wasn't recording. In that time I extended the shaft to connect to the lock mechanism, added springs to the lock, and worked on making a better housing for the full trigger assembly.
+I made a lot more of the mechanism for the queen, adding a cam that will push out the base to become larger, and making the pieces fit better and accounting for tolerances. I also added the trigger part of the mechanism in the base. My next goal is to finish the shell of the queen, then I can move on to the bishop and rook. About 30 minutes of the footage between part 2 and 3 recordings got lost because fusion crashed and lapse was set to capture a window, so I didn't realize it wasn't recording after I reopened it. In that time I extended the shaft to connect to the lock mechanism, added springs to the lock, and worked on making a better housing for the full trigger assembly.
 
 [Timelapse](https://lookout.hackclub.com/api/media/214846e4-1ef9-4976-aeaa-695cb24641f3/video.mp4)
 

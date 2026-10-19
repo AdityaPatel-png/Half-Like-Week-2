@@ -87,6 +87,6 @@ I finished the mechanism for the queen, adding a cam that will push out the base
 
 **1.12h**
 
-I made THE ROOOOK and I also scaled up the king and board so that the pawn-queen would be less huge by comparison. I had to do about 30 minutes research to see what tournament legal chess sizes are and planning out the best size to use  before modifying my pieces. I also had to remove the engravings from the board because it was a broken link, I probably won't be able to add them.
+I made THE ROOOOK and I also scaled up the king and board so that the pawn-queen would be less huge by comparison. I had to do about 30 minutes research to see what tournament legal chess sizes are and planning out the best size to use  before modifying my pieces. I also had to remove the engravings from the board because it was a broken link, I probably won't be able to add them back in time so maybe I'll just paint them on during design week.
 
 [Timelapse](https://lookout.hackclub.com/api/media/ed029995-9bfb-4a88-88d8-80abc1c279b3/video.mp4)

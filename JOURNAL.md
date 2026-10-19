@@ -10,14 +10,14 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 7.55h | 4 |
+| Week 2 | Tier 1 | 8.99h | 4 |
 
 ## Contents
 
 1. [2026-10-14 – Today, I spent most of my free time looking at mechanisms I could use for my complex parts as well as designing some chess pieces. I made the king, which is the only piece I don't plan to make transfo](#2026-10-14-today-i-spent-most-of-my-free-time-looking-at-mec)
 2. [2026-10-14 – Quick work session, I added the tiles and engravings to the board and now all that's left of it is the hinges so it closes (maybe feet if I want to add them). I was going to tile them individually unt](#2026-10-14-quick-work-session-i-added-the-tiles-and-engravin)
 3. [2026-10-17 – Today was not a ton of work, I was trying to figure out the mechanism for the expanding pawns but i got stuck a lot of times. I'll try to continue but it's a big struggle right now and I'm considering](#2026-10-17-today-was-not-a-ton-of-work-i-was-trying-to-figur)
-4. [2026-10-18 – I made a lot more of the mechanism for the queen, adding a cam that will push out the base to become larger, and making the pieces fit better and accounting for tolerances. I also added the trigger pa](#2026-10-18-i-made-a-lot-more-of-the-mechanism-for-the-queen-)
+4. [2026-10-18 – I finished the mechanism for the queen, adding a cam that will push out the base to become larger, and making the pieces fit better and accounting for tolerances. I also added the trigger part of the](#2026-10-18-i-finished-the-mechanism-for-the-queen-adding-a-c)
 
 ## Design
 
@@ -70,12 +70,14 @@ Today was not a ton of work, I was trying to figure out the mechanism for the ex
 
 [Timelapse](https://lookout.hackclub.com/api/media/ebc96211-22de-44bd-b88b-70785dd78f2f/video.mp4)
 
-### 2026-10-18 – I made a lot more of the mechanism for the queen, adding a cam that will push out the base to become larger, and making the pieces fit better and accounting for tolerances. I also added the trigger pa
+### 2026-10-18 – I finished the mechanism for the queen, adding a cam that will push out the base to become larger, and making the pieces fit better and accounting for tolerances. I also added the trigger part of the
 
-**3.18h**
+**4.62h**
 
-I made a lot more of the mechanism for the queen, adding a cam that will push out the base to become larger, and making the pieces fit better and accounting for tolerances. I also added the trigger part of the mechanism in the base. My next goal is to finish the shell of the queen, then I can move on to the bishop and rook. About 30 minutes of the footage between part 2 and 3 recordings got lost because fusion crashed and lapse was set to capture a window, so I didn't realize it wasn't recording after I reopened it. In that time I extended the shaft to connect to the lock mechanism, added springs to the lock, and worked on making a better housing for the full trigger assembly.
+I finished the mechanism for the queen, adding a cam that will push out the base to become larger, and making the pieces fit better and accounting for tolerances. I also added the trigger part of the mechanism in the base and finished the shell of the queen. About 30 minutes of the footage between part 2 and 3 recordings got lost because fusion crashed and lapse was set to capture a window, so I didn't realize it wasn't recording after I reopened it. In that time I extended the shaft to connect to the lock mechanism, added springs to the lock, and worked on making a better housing for the full trigger assembly. My next goal will be the knight, bishop, and rook, but I will not make them transform due to time (and sanity) constraints.
 
 [Timelapse](https://lookout.hackclub.com/api/media/214846e4-1ef9-4976-aeaa-695cb24641f3/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/6ba90d7a-aba1-4e49-bdae-e4808fe17274/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/297ffc49-d173-4e03-a655-4829998101b8/video.mp4)
